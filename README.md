@@ -1,1 +1,1 @@
-# Manifesto
+# The Autonomous Governance Manifesto
