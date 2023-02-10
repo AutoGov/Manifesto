@@ -15,4 +15,4 @@ As a community, we commit to conscious, focused, and persistent design, implemen
 
 Signatories
 
-* (Bill Bensing)[https://www.linkedin.com/in/billbensing/] - Feb. 10, 2023
+* [Bill Bensing](https://www.linkedin.com/in/billbensing) - Feb. 10, 2023
